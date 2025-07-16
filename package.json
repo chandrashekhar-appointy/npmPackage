@@ -23,7 +23,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Appointy-IDP/npmPackage.git"
+    "url": "https://github.com/chandrashekhar-appointy/npmPackage.git"
   },
   "files": [
     "dist",
