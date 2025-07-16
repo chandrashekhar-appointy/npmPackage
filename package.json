@@ -8,7 +8,9 @@
     "build": "tsc",
     "clean": "rimraf dist",
     "prepare": "npm run clean && npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
     "semantic-release": "semantic-release"
   },
   "keywords": [
@@ -31,9 +33,12 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^11.0.3",
+    "@types/jest": "^30.0.0",
     "conventional-changelog-conventionalcommits": "^9.1.0",
+    "jest": "^30.0.4",
     "rimraf": "^5.0.0",
     "semantic-release": "^24.2.7",
+    "ts-jest": "^29.4.0",
     "typescript": "^5.0.0"
   },
   "publishConfig": {
