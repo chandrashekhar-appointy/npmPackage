@@ -1,6 +1,6 @@
-{
-  "name": "@chandrashekhar-appointy/privatepackage",
-  "version": "0.0.0-development",
+  {
+    "name": "@chandrashekhar-appointy/privatepackage",
+    "version": "1.0.0",
   "description": "A simple TypeScript package that multiplies numbers by 2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
