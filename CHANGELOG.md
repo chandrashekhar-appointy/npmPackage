@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/chandrashekhar-appointy/npmPackage/compare/v1.0.1...v1.1.0) (2025-07-17)
+
+### Features
+
+* add multiplyByThree and multiplyBy functions ([fb19dce](https://github.com/chandrashekhar-appointy/npmPackage/commit/fb19dcee0ca4b6bc37fba3c88e3e0145e8880afc))
+
 ## [1.0.1](https://github.com/chandrashekhar-appointy/npmPackage/compare/v1.0.0...v1.0.1) (2025-07-17)
 
 ### Bug Fixes
