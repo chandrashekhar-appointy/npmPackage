@@ -1,19 +1,19 @@
-# @Appointy-IDP/privatepackage
+# @chandrashekhar-appointy/privatepackage
 
 A simple TypeScript package that multiplies numbers by 2.
 
 ## Installation
 
 ```bash
-npm install @Appointy-IDP/privatepackage
+npm install @chandrashekhar-appointy/privatepackage
 ```
 
 ## Usage
 
 ```typescript
-import { multiplyByTwo } from '@Appointy-IDP/privatepackage';
+import { multiplyByTwo } from '@chandrashekhar-appointy/privatepackage';
 // or
-import multiplyByTwo from '@Appointy-IDP/privatepackage';
+import multiplyByTwo from '@chandrashekhar-appointy/privatepackage';
 
 // Example usage
 const result = multiplyByTwo(6);
